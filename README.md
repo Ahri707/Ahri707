@@ -6,11 +6,16 @@
 </p>
 
 <p align="left">
-  # Linguagens:  
+  # Linguagens/Frameworks:  
 </p>
 <p>
- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
- <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" width="50"/>
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" width="50"/>
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg" width="50"/>
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" width="50"/>
+
+
+ 
  
   
 </p>
@@ -22,8 +27,9 @@
   # Ferramentas:
 </p>
 <p>
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" width="50" height="35">
-  <img src="https://icon.icepanel.io/Technology/svg/DataGrip.svg" width="50" height="35">
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" width="50">
+  <img src="https://icon.icepanel.io/Technology/svg/DataGrip.svg" width="50">
+  <img src="https://icon.icepanel.io/Technology/svg/CLion.svg" width="50">
 
 
 </p>
