@@ -6,12 +6,15 @@
 </p>
 
 <p align="left">
-  # Linguagens/Frameworks:  
+  # Languages | Frameworks :  
 </p>
 <p>
  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" width="50"/>
- <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" width="50"/>
  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/TypeScript.svg" width="50"/>
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/C.svg" width=50"/>
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" width=50"/>
+
+ <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" width="50"/>
  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/React-Dark.svg" width="50"/>
 
 
@@ -24,12 +27,14 @@
 
 
 <p align="left">
-  # Ferramentas:
+  # Development Tools :
 </p>
 <p>
   <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/VSCode-Dark.svg" width="50">
   <img src="https://icon.icepanel.io/Technology/svg/DataGrip.svg" width="50">
   <img src="https://icon.icepanel.io/Technology/svg/CLion.svg" width="50">
+  <img src="https://static.cdnlogo.com/logos/e/72/expo-go-app.svg" width="40">
+
 
 
 </p>
